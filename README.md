@@ -86,7 +86,7 @@ Vertical tabs are currently disabled in Private Browsing Mode due to behaviour c
 | Extend sidebar length to 250px (original: 200px) | Go to `about:config` and add new Boolean entry: `uc.tweak.longer-sidebar` |
 | Other tweaks (some might've already preapplied here) | Check [bmFtZQ/edge-frfox theme page](https://github.com/bmFtZQ/edge-frfox?tab=readme-ov-file#tweaks) and add to `about:config` |
 | Use Segoe UI Variable (Windows 11 default font) as Firefox UI font, as shown on preview screenshots | Download from [CufonFonts](https://www.cufonfonts.com/font/segoe-ui-variable), install and uncomment the related settings on userchrome.css and Sidebery style configurations (sidebery-css-style) |
-| Additional addons for theming  | [Adaptive Tab Bar Colour](https://addons.mozilla.org/id/firefox/addon/adaptive-tab-bar-colour/) & [Firefox Color](https://color.firefox.com) [extension](https://addons.mozilla.org/id/firefox/addon/firefox-color) |
+| Additional addons for theming  | [Adaptive Tab Bar Colour](https://addons.mozilla.org/id/firefox/addon/adaptive-tab-bar-colour/) & [Firefox Color](https://color.firefox.com) [extension](https://addons.mozilla.org/id/firefox/addon/firefox-color), (https://addons.mozilla.org/de/firefox/addon/tabliss/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) |
  
 ### Changelogs
 
